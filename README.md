@@ -33,6 +33,7 @@ Columns are reordered to improve readability
 
 cronograma de vendas.xlsx    
 cronograma de vendas_with_km.xlsx
+
 geo_distance_calculator.py     
 
 
