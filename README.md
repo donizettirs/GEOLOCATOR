@@ -31,8 +31,8 @@ Includes retry logic for geocoding timeouts
 Sleeps between API calls to respect rate limits
 Columns are reordered to improve readability
 
-├── cronograma de vendas.xlsx         # Original Excel input
-├── cronograma de vendas_with_km.xlsx # Output with distances
-├── geo_distance_calculator.py        # Main script
+cronograma de vendas.xlsx    
+cronograma de vendas_with_km.xlsx
+geo_distance_calculator.py     
 
 
