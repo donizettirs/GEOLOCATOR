@@ -32,8 +32,8 @@ Sleeps between API calls to respect rate limits
 Columns are reordered to improve readability
 
 📂 File Structure
-1 cronograma de vendas.xlsx    
-2 cronograma de vendas_with_km.xlsx 
+1 cronograma de vendas.xlsx,   
+2 cronograma de vendas_with_km.xlsx, 
 3 geo_distance_calculator.py     
 
 
