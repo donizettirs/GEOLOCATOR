@@ -1,0 +1,22 @@
+import pandas as pd
+
+Age = []
+
+#create data
+data = {
+    'name':['Bob', 'Ken','Mary']
+}
+
+#crete df
+df = pd.DataFrame(data)
+
+#create age column
+for index, row in df.iterrows():
+    Age_var = index+1
+    
+    #append age
+    Age.append(Age_var)
+
+#assign list to a new column
+df['Age']=Age
+print(df)
